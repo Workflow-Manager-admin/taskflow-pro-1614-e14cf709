@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/taskflow-pro-1614-e14cf709/taskflow_pro"
+}
